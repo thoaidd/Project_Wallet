@@ -19,7 +19,7 @@ Dự án xây dựng một hệ thống đăng nhập, đăng ký tài khoản v
 ## 📦 Cách tải chương trình
 1. Tải mã nguồn về từ GitHub (nếu có repo):
    ```bash
-   git clone https://github.com/ten-nhom/du-an-cpp-vi-diem
+   git clone https://github.com/thoaidd/Project_Wallet
    ```
 2. Mở file `main.cpp` trong phần mềm Dev C++ hoặc Code::Blocks
 3. Dự án không cần thư viện ngoài. Toàn bộ file `.cpp` và `.h` đều trong thư mục chính.
