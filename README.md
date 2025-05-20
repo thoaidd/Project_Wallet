@@ -3,8 +3,8 @@ Dự án xây dựng một hệ thống đăng nhập, đăng ký tài khoản v
 ## 👥 Thành viên tham gia
 | Họ tên         | MSSV       | Vai trò trong nhóm                    |
 |----------------|------------|---------------------------------------|
-| Đoàn Đình Thoại   | B16DCVT293   | Viết chức năng đăng ký, đăng nhập,OTP xác thực khi chuyển điểm    |
-| Nguyễn Duy Tùng    | B19DCVT354  | Chuyển điểm giữa người dùng, Giao diện dòng lệnh đơn giản, Lưu và tải dữ liệu từ file        |
+| Đoàn Đình Thoại   | B16DCVT293   | Viết chức năng đăng ký, đăng nhập,Giao dịch chuyển điểm , Giao diện người dùng   |
+| Nguyễn Duy Tùng    | B19DCVT354  | Ghi nhận lịch sử giao dịch, Giao diện quản trị viên (admin)|
 
 
 ## 📋 Phân tích & đặc tả chức năng
