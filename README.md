@@ -3,7 +3,7 @@ Dự án xây dựng một hệ thống đăng nhập, đăng ký tài khoản v
 ## 👥 Thành viên tham gia
 | Họ tên         | MSSV       | Vai trò trong nhóm                    |
 |----------------|------------|---------------------------------------|
-| Đoàn Đình Thoại   | 12345678   | Viết chức năng đăng ký, đăng nhập     |
+| Đoàn Đình Thoại   | B16DCVT293   | Viết chức năng đăng ký, đăng nhập     |
 | Trần Thị B     | 23456789   | Viết chức năng ví điểm thưởng         |
 
 
